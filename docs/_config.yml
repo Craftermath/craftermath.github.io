@@ -4,14 +4,14 @@ name: Craftermath
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://craftermath.github.io
+url: https://craftermath.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl:
 
-author: 
-copyright: 
+author:
+copyright:
 
 share:
   facebook: false
