@@ -1,0 +1,6 @@
+
+/jekyll-clean-dark
+_cache
+_site
+.idea/
+.jekyll-cache
