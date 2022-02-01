@@ -4,11 +4,12 @@ name: Craftermath
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: https://craftermath.com.br
-#url: http://localhost:4000
+# url: https://craftermath.com.br
+# url: http://localhost:4000
+url: https://craftermath.github.io
 
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
-baseurl: https://craftermath.github.io
+baseurl:
 
 author:
 copyright:
