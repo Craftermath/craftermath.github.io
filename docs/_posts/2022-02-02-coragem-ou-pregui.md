@@ -2,7 +2,7 @@
 layout: post
 title: "Coragem e/ou Preguiça?"
 date: 2022-02-02 22:25:06
-tags: fedora_35 ideia_errada 
+tags: comportamento fedora_35 ideia_errada 
 description: Atualizando o sistema com emoção ou morta por dentro...
 translation:
 ---
