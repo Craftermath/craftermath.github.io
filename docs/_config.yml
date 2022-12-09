@@ -19,6 +19,7 @@ share:
   twitter: false
   gplus: false
   linkedin: true
+  instagram: true
   pinterest: false
   email: true
 
@@ -26,7 +27,7 @@ social:
   github: Craftermath
   stackoverflow:
   linkedin: carolaraujo
-  instagram:
+  instagram: crafter.math
   lastfm:
   rss: # feed.xml
 
