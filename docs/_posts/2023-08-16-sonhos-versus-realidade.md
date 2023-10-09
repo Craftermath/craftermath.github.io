@@ -2,7 +2,7 @@
 layout: post
 title: "Sonhos versus Realidade"
 date: 2023-08-16 06:40:06
-tags: blog comportamento jekyll nerdisse
+tags: blog comportamento nerdisse
 description: Deu vontade de escrever.
 translation:
 ---  
