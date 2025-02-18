@@ -2,7 +2,7 @@
 layout: post
 title: "Meu Amigo Briga"
 date: 2025-02-08 20:35:06
-tags: comportamento diversão
+tags: comportamento diversão podcasts
 description: As amizades salvam a humanidade da gente.
 translation:
 ---
