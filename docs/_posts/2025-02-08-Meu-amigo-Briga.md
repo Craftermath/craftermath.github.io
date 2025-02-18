@@ -21,5 +21,5 @@ A vida adulta sem pensamento mágico tá cada dia mais difícil ;P
 
 \#sabadou
 
-¹ significa link pra rede social duvidosa e bad vibes   
-² link pra tocador duvidoso
+> ¹  significa link pra rede social duvidosa e bad vibes   
+> ²  link pra tocador duvidoso
